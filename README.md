@@ -1,4 +1,4 @@
-# GameCheck AI – Windows-Vorschau 0.4.7
+# GameCheck AI – Windows-Vorschau 0.4.9
 
 GameCheck AI erkennt lokale PC-Hardware, vergleicht sie nachvollziehbar mit dokumentierten Spieleanforderungen und bietet eine lokale Spielmessung. Dieses Repository ist für Windows-Releases und öffentliche Versionshinweise vorgesehen.
 
@@ -24,11 +24,11 @@ Updateprüfung und Updateinstallation werden ausdrücklich vom Nutzer gestartet.
 
 ## Signierung und Dateiprüfung
 
-Der vorbereitete Windows-x64-Installer 0.4.7 hat eine Tauri-Updatesignatur gegen die bisherige öffentliche Signierungsidentität. Eine Tauri-Updatesignatur ist von Windows-Authenticode zu unterscheiden. Der Installer ist **nicht Windows-Authenticode-signiert**; aus der Tauri-Signatur folgt keine SmartScreen-Reputation.
+Der vorbereitete Windows-x64-Installer 0.4.9 hat eine Tauri-Updatesignatur gegen die bisherige öffentliche Signierungsidentität. Eine Tauri-Updatesignatur ist von Windows-Authenticode zu unterscheiden. Der Installer ist **nicht Windows-Authenticode-signiert**; aus der Tauri-Signatur folgt keine SmartScreen-Reputation.
 
 Installer-SHA-256:
 
-`081485AF095287671101BD6B7C63F17E932DF61ED20F60E8AAF9FBCA314A6185`
+`4B43FD5012FF493B5709B4B733764F12A93D9B8A340079A98542D7E6754EB8E8`
 
 SHA-256 der bisherigen öffentlichen Tauri-Signierungsidentität:
 
